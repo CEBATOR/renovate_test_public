@@ -4,7 +4,7 @@
 target 'renovate_test_public' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-   pod 'AFNetworking', '~> 3.0'
+   pod 'AFNetworking', '3.0'
   # Pods for renovate_test_public
 
 end
